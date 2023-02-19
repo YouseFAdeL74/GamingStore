@@ -55,7 +55,7 @@ html {
 
 .show-icon {
   position: fixed;
-  z-index: 5555555;
+  z-index: 10;
   width: 60px;
   bottom: 20px;
   right: -55px;
